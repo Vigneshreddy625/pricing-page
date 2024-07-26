@@ -545,7 +545,7 @@ const handleToggle = (index) => {
                   <div class="plan-feature-flex">
                     <img
                       class="plan-feature-icon"
-                      src="./assets/app-development.png"
+                      src={developmentImg}
                       alt=""
                     />
                     <h4>Free custom domain*</h4>
